@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\torre\\Universidad\\Diseno detallado de software 2\\RawDeal_E3\\RawDeal\\RawDeal\\RawDeal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\torre\\Universidad\\Diseno detallado de software 2\\RawDeal_E3\\RawDeal\\RawDealView\\RawDealView.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\torre\\Universidad\\Diseno detallado de software 2\\RawDeal_E3\\RawDeal\\RawDealView\\RawDealView.csproj",
+        "projectName": "RawDealView",
+        "projectPath": "C:\\Users\\torre\\Universidad\\Diseno detallado de software 2\\RawDeal_E3\\RawDeal\\RawDealView\\RawDealView.csproj",
+        "packagesPath": "C:\\Users\\torre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\torre\\Universidad\\Diseno detallado de software 2\\RawDeal_E3\\RawDeal\\RawDealView\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\torre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.110\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\torre\\Universidad\\Diseno detallado de software 2\\RawDeal_E3\\RawDeal\\RawDeal\\RawDeal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\torre\\Universidad\\Diseno detallado de software 2\\RawDeal_E3\\RawDeal\\RawDeal\\RawDeal.csproj",
+        "projectName": "RawDeal",
+        "projectPath": "C:\\Users\\torre\\Universidad\\Diseno detallado de software 2\\RawDeal_E3\\RawDeal\\RawDeal\\RawDeal.csproj",
+        "packagesPath": "C:\\Users\\torre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\torre\\Universidad\\Diseno detallado de software 2\\RawDeal_E3\\RawDeal\\RawDeal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\torre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\torre\\Universidad\\Diseno detallado de software 2\\RawDeal_E3\\RawDeal\\RawDealView\\RawDealView.csproj": {
+                "projectPath": "C:\\Users\\torre\\Universidad\\Diseno detallado de software 2\\RawDeal_E3\\RawDeal\\RawDealView\\RawDealView.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.110\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
